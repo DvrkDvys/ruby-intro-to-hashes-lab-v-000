@@ -16,7 +16,7 @@ def monopoly_with_second_tier
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
 	 monopoly = {
    :railroads => {
-      :patriarch => {name: "Lord Montague", age: "53"},
+      :peices => {"4"},
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => []
    }
